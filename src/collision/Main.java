@@ -14,6 +14,10 @@ public class Main {
             frame.setVisible(true);
 
             mainPanel.startDrawing();
+            
+            System.out.println("Allah is Greatest!!!");
+
+            
         });
     }
 }
